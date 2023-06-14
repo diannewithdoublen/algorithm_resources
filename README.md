@@ -4,7 +4,7 @@
 
 
 ## Github
-[算法竞赛模板库 by 灵茶山艾府]([url](https://github.com/EndlessCheng/codeforces-go))
+[[算法竞赛模板库 by 灵茶山艾府]](https://github.com/EndlessCheng/codeforces-go)
 [USACO Resources(Solutions)]([url](https://github.com/bqi343/cp-notebook/tree/master/Contests/USACO%20Solutions))
 
 ## 洛谷
