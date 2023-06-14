@@ -11,8 +11,8 @@
 
 
 ## 知乎
-[CF不上分建议（心态调整）]([url](https://www.zhihu.com/question/353734418/answer/2353160035))<br />
+[CF不上分建议（心态调整）](https://www.zhihu.com/question/353734418/answer/2353160035)<br />
 
 ## 其他资源
-[C++仓库]([url](https://interview.huihut.com/#/?id=stl))<br />
-[LABULADONG 的算法网站]([url](https://labuladong.github.io/algo/))<br />
+[C++仓库](https://interview.huihut.com/#/?id=stl)<br />
+[LABULADONG 的算法网站](https://labuladong.github.io/algo/)<br />
