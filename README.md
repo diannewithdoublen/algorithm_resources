@@ -8,7 +8,7 @@
 [USACO Resources(Solutions)](https://github.com/bqi343/cp-notebook/tree/master/Contests/USACO%20Solutions) <br />
 
 ## 洛谷
-
+[刷题清单](https://www.luogu.com.cn/paste/0id3h6on)
 
 ## 知乎
 [CF不上分建议（心态调整）](https://www.zhihu.com/question/353734418/answer/2353160035)<br />
