@@ -13,7 +13,6 @@
 [CP Notes, Tips, Videos](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)<br />
 [cs自学指南](https://github.com/PKUFlyingPig/cs-self-learning)<br />
 [Leetcode刷题顺序](https://github.com/youngyangyang04/leetcode-master)<br />
-
 [算法竞赛(ICPC, OI, etc)论文，课件，文档，笔记](https://github.com/LzyRapx/Competitive-Programming-Docs)<br />
 
 ## 洛谷
