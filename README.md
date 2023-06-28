@@ -15,6 +15,9 @@
 [Leetcode刷题顺序](https://github.com/youngyangyang04/leetcode-master)<br />
 [算法竞赛(ICPC, OI, etc)论文，课件，文档，笔记](https://github.com/LzyRapx/Competitive-Programming-Docs)<br />
 
+## CSDN
+[c++入门大全](https://blog.csdn.net/m0_62870588/category_11707061.html)<br />
+
 ## 洛谷
 [刷题清单](https://www.luogu.com.cn/paste/0id3h6on)<br />
 
