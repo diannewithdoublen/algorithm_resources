@@ -17,6 +17,7 @@
 
 ## CSDN
 [c++入门大全](https://blog.csdn.net/m0_62870588/category_11707061.html)<br />
+[详细易懂的算法笔记（稍高阶）](https://blog.csdn.net/weixin_45629285/category_10218699.html)<br />
 
 ## 洛谷
 [刷题清单](https://www.luogu.com.cn/paste/0id3h6on)<br />
