@@ -15,6 +15,7 @@
 [Leetcode刷题顺序](https://github.com/youngyangyang04/leetcode-master)<br />
 [算法竞赛(ICPC, OI, etc)论文，课件，文档，笔记](https://github.com/LzyRapx/Competitive-Programming-Docs)<br />
 [洛谷个人主页练习卡片](https://github.com/cyrxdzj/luogu-card)<br />
+[算法竞赛课件分享](https://github.com/hzwer/shareOI)<br />
 
 ## CSDN
 [c++入门大全](https://blog.csdn.net/m0_62870588/category_11707061.html)<br />
@@ -26,9 +27,10 @@
 [刷题清单](https://www.luogu.com.cn/paste/0id3h6on)<br />
 
 ## 知乎
-[算法学习笔记（目录）](https://zhuanlan.zhihu.com/p/105467597)<br />
+[算法学习笔记（超全）](https://zhuanlan.zhihu.com/p/105467597)<br />
 [CF不上分建议（心态调整）](https://www.zhihu.com/question/353734418/answer/2353160035)<br />
 [刷 LeetCode 吃力正常吗？](https://www.zhihu.com/question/31092580/answer/1534887374)<br />
+
 
 ## Codeforces
 [Good Tutorials](https://codeforces.com/blog/entry/57282)<br />
@@ -40,7 +42,9 @@
 [Data Structure and Algorithms Visualization](https://visualgo.net/en)<br />
 
 ## 其他资源
+[洛谷日报大全](https://www.craft.me/s/N0l80k2gv46Psq)
 [C++仓库](https://interview.huihut.com/#/?id=stl)<br />
 [LABULADONG 的算法网站](https://labuladong.github.io/algo/)<br />
 [杂文 记一些有用的神奇网站](https://www.cnblogs.com/Xing-Ling/p/10897760.html)<br />
 [gfg ACM ICPC Prep](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)<br />
+[学习资料（不太多东西）](https://www.kancloud.cn/pxzxhxh/noip/2487106)https://www.kancloud.cn/pxzxhxh/noip/2487106<br />
