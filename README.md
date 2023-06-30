@@ -14,6 +14,7 @@
 [cs自学指南](https://github.com/PKUFlyingPig/cs-self-learning)<br />
 [Leetcode刷题顺序](https://github.com/youngyangyang04/leetcode-master)<br />
 [算法竞赛(ICPC, OI, etc)论文，课件，文档，笔记](https://github.com/LzyRapx/Competitive-Programming-Docs)<br />
+[洛谷个人主页练习卡片](https://github.com/cyrxdzj/luogu-card)<br />
 
 ## CSDN
 [c++入门大全](https://blog.csdn.net/m0_62870588/category_11707061.html)<br />
