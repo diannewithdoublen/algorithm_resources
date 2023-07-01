@@ -50,4 +50,4 @@
 [杂文 记一些有用的神奇网站](https://www.cnblogs.com/Xing-Ling/p/10897760.html)<br />
 [gfg ACM ICPC Prep](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)<br />
 [学习资料（不太多东西）](https://www.kancloud.cn/pxzxhxh/noip/2487106)<br />
-[OIerDb](https://bytew.net/OIer)https://bytew.net/OIer
+[OIerDb](https://bytew.net/OIer)<br />
