@@ -22,6 +22,7 @@
 [详细易懂的算法笔记（稍高阶）](https://blog.csdn.net/weixin_45629285/category_10218699.html)<br />
 [OI梗](https://blog.csdn.net/m0_45682806/article/details/107912992?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168808920516800197049542%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=168808920516800197049542&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-9-107912992-null-null.142^v88^insert_down38v5,239^v2^insert_chatgpt&utm_term=oi%E7%BB%8F%E5%8E%86&spm=1018.2226.3001.4187)<br />
 [Leetcode刷题心得](https://blog.csdn.net/qq_41022094/article/details/104658718?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_utm_term~default-0-104658718-blog-95726307.235^v38^pc_relevant_anti_vip_base&spm=1001.2101.3001.4242.1&utm_relevant_index=3)<br />
+[算法竞赛三大赛制](https://blog.csdn.net/qq_32022299/article/details/105471494?spm=1001.2101.3001.6650.9&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-9-105471494-blog-88325388.235%5Ev38%5Epc_relevant_anti_vip_base&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-9-105471494-blog-88325388.235%5Ev38%5Epc_relevant_anti_vip_base&utm_relevant_index=18)<br />
 
 ## 洛谷
 [刷题清单](https://www.luogu.com.cn/paste/0id3h6on)<br />
