@@ -25,6 +25,7 @@
 
 ## 洛谷
 [刷题清单](https://www.luogu.com.cn/paste/0id3h6on)<br />
+[洛谷试炼场遗址](https://www.luogu.com.cn/blog/4cd6/luogu-test-site)<br />
 
 ## 知乎
 [算法学习笔记（超全）](https://zhuanlan.zhihu.com/p/105467597)<br />
