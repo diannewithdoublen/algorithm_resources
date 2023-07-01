@@ -44,9 +44,10 @@
 [Data Structure and Algorithms Visualization](https://visualgo.net/en)<br />
 
 ## 其他资源
-[洛谷日报大全](https://www.craft.me/s/N0l80k2gv46Psq)
+[洛谷日报大全](https://www.craft.me/s/N0l80k2gv46Psq)<br />
 [C++仓库](https://interview.huihut.com/#/?id=stl)<br />
 [LABULADONG 的算法网站](https://labuladong.github.io/algo/)<br />
 [杂文 记一些有用的神奇网站](https://www.cnblogs.com/Xing-Ling/p/10897760.html)<br />
 [gfg ACM ICPC Prep](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)<br />
-[学习资料（不太多东西）](https://www.kancloud.cn/pxzxhxh/noip/2487106)https://www.kancloud.cn/pxzxhxh/noip/2487106<br />
+[学习资料（不太多东西）](https://www.kancloud.cn/pxzxhxh/noip/2487106)<br />
+[OIerDb](https://bytew.net/OIer)https://bytew.net/OIer
