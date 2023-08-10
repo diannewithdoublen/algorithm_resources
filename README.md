@@ -37,6 +37,9 @@
 ## Codeforces
 [Good Tutorials](https://codeforces.com/blog/entry/57282)<br />
 
+## AcWing
+[数论问题算法模板](https://www.acwing.com/blog/content/28/)<br />
+
 ## Leetcode
 [Leetcode Cookbook](https://books.halfrost.com/leetcode/)<br />
 
