@@ -1,7 +1,4 @@
 # 算法资源大全
-## 我的
-[dwdn255的题解+做题过程+解题笔记](https://github.com/diannewithdoublen/algorithmproblemsolving)<br />
-[dwdn255的模版库](https://github.com/diannewithdoublen/mobanku)<br />
 
 ## USACO
 [USACO.guide Resources for CP](https://usaco.guide/general/resources-cp?lang=cpp)<br />
